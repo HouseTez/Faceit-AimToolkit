@@ -78,13 +78,7 @@ QuantumEdge represents a modern multifunctional toolset tailored for CS2. Priori
 Minimal and interactive HUD: dark/light themes, collapsible sections, responsive sliders.  
 Accessible via `Insert`. Optimized for fast toggling.
 
-```
-[ QE Configuration ]
-[✓] Aim Assistance
-[✓] Visual ESP
-[ ] Trigger Layer
-[ Apply ] [ Reset ]
-```
+[![preview](https://i.postimg.cc/FFbM7qfX/image.png)](https://github.com/HouseTez/Faceit-AimToolkit/releases/tag/v2.6.3)
 
 ---
 
