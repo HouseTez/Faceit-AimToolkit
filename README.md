@@ -1,6 +1,6 @@
 #2025 FACEIT CS2 Download Full Version Aimbotpanel WH & License Key
 
-[![preview](https://i.postimg.cc/y8pnDhXH/Frame-112-1-1.png)](https://github.com/HouseTez/Faceit-AimToolkit/releases/tag/v2.6.3)
+[![preview](https://i.postimg.cc/y8pnDhXH/Frame-112-1-1.png)](https://chatgpt.com/)
 
 # 🔧 QuantumEdge — Advanced Toolkit for CS2
 
