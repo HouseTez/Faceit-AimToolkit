@@ -1,3 +1,4 @@
+#2025 FACEIT CS2 Download Full Version Aimbotpanel WH & License Key
 🧠 **Faceit-AimToolkit** is a high-performance toolset designed to enhance player consistency, mouse behavior, and movement responsiveness during competitive CS2 Faceit sessions.
 
 ## ⚙ Features
